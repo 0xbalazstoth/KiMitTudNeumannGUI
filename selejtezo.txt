@@ -1,0 +1,17 @@
+﻿Kovács Adél;6 10 9 8 7 6
+Horváth Lili;3 5 4 3 6 5
+Lukács Andrea;2 4 7 5 4 5
+Nagy Tibor;1 3 2 3 3 2
+Varga Bence;6 3 5 6 6 7
+Major Anna;9 6 10 6 9 10
+Kiss Mária;1 2 1 2 1 2
+Szabó Rita;6 6 6 7 6 6
+Lakatos Gabriella;4 7 5 6 7 6
+Kecske Kis;5 6 4 5 3 5
+La La;5 4 6 3 4 2
+La La La;4 6 5 3 6 7
+Laaaa A;3 4 5 1 2 3
+A a;4 5 3 5 3 3
+La La A;5 4 6 5 2 4
+Kecske Kecske;4 5 6 7 6 7
+Asd Asd;6 5 3 4 1 2
